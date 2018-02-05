@@ -3,15 +3,17 @@ Strukturering af data på pc - hvor skal kode ligge? - lav folder under Dokument
 
 ## klasser, objekter og fields
 ### Car Broker demo
-Klasser vs objekter
-
-### Øvelse: Hent kode i GitHub
+Klasser, objekter, felter i Car klasse
+Broker til at instantiere et par biler
 
 ### Motorbike øvelse
 Kode et Java projekt med klasser for broker og motorcykel.
 Hvilke fields, skal den have?
 Lav en broker som demoer motorcykelprogrammet
 
-### Ekstra: Angry Birds
+### Øvelse: Hent kode i GitHub
+
+### Ekstra øvelse: Angry Birds
 Kode en Angry Bird
 Brug de fundne attributer fra jeres use cases som fields i klasserne
+Gem koden - vi kan vende tilbage til den løbende i kurset
