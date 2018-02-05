@@ -11,3 +11,7 @@ Klasser vs objekter
 Kode et Java projekt med klasser for broker og motorcykel.
 Hvilke fields, skal den have?
 Lav en broker som demoer motorcykelprogrammet
+
+### Ekstra: Angry Birds
+Kode en Angry Bird
+Brug de fundne attributer fra jeres use cases som fields i klasserne
