@@ -6,7 +6,7 @@ int year;
 
 /*
 public String toString(){
-   return "Mærke: " + brand + "\n" + "Model: " + model + "\n" + "Årgang: " + year;   
+   return "Mærke:\t" + brand + "\n" + "Model:\t" + model + "\n" + "Årgang:\t" + year + "\n";    
 }
 */
 
