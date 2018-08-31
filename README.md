@@ -1,19 +1,21 @@
 # 04 klasser og objekter
-Strukturering af data på pc - hvor skal kode ligge? - lav folder under Dokumenter eller ny folder andet steds på drev
+Træk kort og skift grupper - de gælder til Little Animal Horror Zoo
+
+## Strukturering af data på pc - recap
+Hvor skal kode ligge?
+* lav folder under Dokumenter, eller
+* ny folder andet steds på drev, f.eks. C:\kode\>
 
 ## klasser, objekter og fields
+
+
 ### Car Broker demo
 Klasser, objekter, felter i Car klasse
-Broker til at instantiere et par biler
+Broker til at instantiere et par biler og skrive dem ud
 
-### Motorbike øvelse
-Kode et Java projekt med klasser for broker og motorcykel.
+### Øvelse - Biblioteket
+Kode et Java projekt med klasser for bøger og lånere, samt udlån
 Hvilke fields, skal den have?
-Lav en broker som demoer motorcykelprogrammet
+Lav en biblioteksklasse med main program, der instantierer nogle bøger og skriver dem ud
 
 ### Øvelse: Hent kode i GitHub
-
-### Ekstra øvelse: Angry Birds
-Kode en Angry Bird
-Brug de fundne attributer fra jeres use cases som fields i klasserne
-Gem koden - vi kan vende tilbage til den løbende i kurset
