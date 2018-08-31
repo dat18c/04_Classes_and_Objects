@@ -1,5 +1,5 @@
 # 04 klasser og objekter
-Træk kort og skift grupper - de gælder til Little Animal Horror Zoo
+Træk kort og skift grupper - I trækker nye kort efter Little Animal Horror Zoo
 
 ## Strukturering af data på pc - recap
 Hvor skal kode ligge?
