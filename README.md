@@ -1,5 +1,7 @@
 # 04 klasser og objekter
 Træk kort og skift grupper - I trækker nye kort efter Little Animal Horror Zoo
+## Gæsteforelæsning 11:00
+David Holte fortæller om sin tid som datamatikerstuderende og hvordan han klarede sig godt igennem studiet.
 
 ## Strukturering af data på pc - recap
 Hvor skal kode ligge?
@@ -21,3 +23,5 @@ Hvilke fields, skal den have?
 Lav en biblioteksklasse med main program, der instantierer nogle bøger og skriver dem ud
 
 ### Øvelse: Hent kode i GitHub
+Kopier og indsæt kode fra Hund og Hundekennel i nye java-kasser. Gem og afvikl.
+Tilføj klassen Kat og initier en kat i Hundekennel, samt skriv den ud.
