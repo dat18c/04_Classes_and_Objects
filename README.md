@@ -4,10 +4,12 @@ Træk kort og skift grupper - de gælder til Little Animal Horror Zoo
 ## Strukturering af data på pc - recap
 Hvor skal kode ligge?
 * lav folder under Dokumenter, eller
-* ny folder andet steds på drev, f.eks. C:\kode\>
+* ny folder andet steds på drev, f.eks. C:\kode\\>
 
 ## klasser, objekter og fields
+Hvad er klasser?
 
+Hvad er objekter?
 
 ### Car Broker demo
 Klasser, objekter, felter i Car klasse
