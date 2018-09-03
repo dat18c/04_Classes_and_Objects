@@ -17,6 +17,11 @@ Hvad er objekter?
 Klasser, objekter, felter i Car klasse
 Broker til at instantiere et par biler og skrive dem ud
 
+### Hundeøvelse
+Kopier og indsæt koden fra Hunde.java og HundeKennel.java.
+Udvid Hunde-klasse med en metode, der skriver ud (brug println).
+Kald metoden fra HundeKennel.
+
 ### Øvelse - Biblioteket
 Kode et Java projekt med klasser for bøger og lånere, samt udlån
 Hvilke fields, skal den have?
