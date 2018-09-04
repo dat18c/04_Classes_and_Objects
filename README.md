@@ -17,11 +17,6 @@ Hvad er objekter?
 Klasser, objekter, felter i Car klasse
 Broker til at instantiere et par biler og skrive dem ud
 
-### Hundeøvelse
-Kopier og indsæt koden fra Hunde.java og HundeKennel.java.
-Udvid Hunde-klasse med en metode, der skriver ud (brug println).
-Kald metoden fra HundeKennel.
-
 ### Øvelse - Biblioteket
 Kode et Java projekt med klasser for bøger og lånere, samt udlån
 Hvilke fields, skal den have?
@@ -29,4 +24,10 @@ Lav en biblioteksklasse med main program, der instantierer nogle bøger og skriv
 
 ### Øvelse: Hent kode i GitHub
 Kopier og indsæt kode fra Hund og Hundekennel i nye java-kasser. Gem og afvikl.
+Udvid klassen Hund med en metode, der udskriver hundens felter (variable). Brung println. Kald metoden udskriv fra Hundekennel, hvor du har mail-metoden.
 Tilføj klassen Kat og initier en kat i Hundekennel, samt skriv den ud.
+
+### Øvelse: Geometri
+Lav et Geometri-program, Geometri.java, med en main.
+Lav klasserne Firkant og RetVinkletTrekant. Lav metoderne areal og omkreds, der beregner og udskriver areal og omkreds.
+Metoden main i Geometri skal initiere nogle trekanter og firkanter og derefter skrive dem ud.
